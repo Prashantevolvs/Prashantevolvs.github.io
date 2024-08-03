@@ -1,2 +1,7 @@
-# Prashantevolvs.github.io
-prashantevolvs.github.io/Prashantevolvs.github.io
+#Datascientist
+##education
+Mechanical, btech
+
+###work experience
+technical recruiter@ compunnel
+-big impact project
