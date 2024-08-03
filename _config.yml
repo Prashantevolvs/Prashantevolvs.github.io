@@ -1,5 +1,5 @@
 title:Prashant kumar
-#logo
+#logo /assets/img/headshot_circle.png
 #discription: text below image
 #show_downloads: true
-theme:
+theme:jekyll-theme-minimal
