@@ -3,5 +3,5 @@
 Mechanical, btech
 
 ###work experience
-technical recruiter@ compunnel
+##Business Analyst
 -big impact project
